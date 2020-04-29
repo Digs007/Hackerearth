@@ -1,0 +1,2 @@
+# Hackerearth
+Competitive Programming practice 
